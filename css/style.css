@@ -1,0 +1,16 @@
+
+
+.ha{
+	border: 2px;
+	border-style: solid;
+	border-color: white;
+	padding: 5px;
+	width: 300px;
+}
+div{
+	margin: auto;
+	width: 500px;
+}
+body{
+	background-color: #D3D3D3;
+}
